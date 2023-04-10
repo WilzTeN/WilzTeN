@@ -1,4 +1,4 @@
 I'm WilZ
-Programador en python, kotlin
+Programador in python, kotlin
 and
 Mindustry mod developer
